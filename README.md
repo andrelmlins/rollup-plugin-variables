@@ -1,6 +1,6 @@
 # Rollup Plugin Variables
 
-Rollup plugin from parse variables
+Rollup plugin for parse variables
 
 [![npm version](https://badge.fury.io/js/rollup-plugin-variables.svg)](https://www.npmjs.com/package/rollup-plugin-variables) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/andrelmlins/rollup-plugin-variables/blob/master/LICENSE) [![Build Status](https://travis-ci.com/andrelmlins/rollup-plugin-variables.svg?branch=master)](https://travis-ci.com/andrelmlins/rollup-plugin-variables)
 
