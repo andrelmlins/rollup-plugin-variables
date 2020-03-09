@@ -1,8 +1,27 @@
 {
   "name": "rollup-plugin-variables",
   "version": "0.1.0",
+  "description": "Rollup plugin from parse variables",
   "main": "index.js",
-  "author": "André Lins",
+  "repository": "https://github.com/andrelmlins/rollup-plugin-variables",
+  "author": "André Lins <andrelucas01@hotmail.com> (https://andrelmlins.github.io/)",
+  "homepage": "https://github.com/andrelmlins/rollup-plugin-variables",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "files": [
+    "utils",
+    "index.js",
+    "README.md"
+  ],
+  "bugs": {
+    "url": "https://github.com/andrelmlins/rollup-plugin-variables/issues"
+  },
+  "keywords": [
+    "rollup",
+    "plugin",
+    "variables"
+  ],
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
