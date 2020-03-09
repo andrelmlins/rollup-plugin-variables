@@ -53,9 +53,9 @@ function transformVariables(options = {}) {
             );
           });
         }
-
-        return code;
       }
+
+      return code;
     }
   };
 }
