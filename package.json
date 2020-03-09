@@ -1,0 +1,8 @@
+{
+  "name": "rollup-plugin-variables",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "André Lins",
+  "license": "MIT",
+  "private": false
+}
