@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-variables",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rollup plugin for parse variables",
   "main": "index.js",
   "repository": "https://github.com/andrelmlins/rollup-plugin-variables",
